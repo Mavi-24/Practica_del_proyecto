@@ -1,0 +1,24 @@
+E:\Users\diego\RiderProjects\InformaticaCliente\InformaticaCliente\bin\Debug\InformaticaCliente.exe.config
+E:\Users\diego\RiderProjects\InformaticaCliente\InformaticaCliente\bin\Debug\InformaticaCliente.exe
+E:\Users\diego\RiderProjects\InformaticaCliente\InformaticaCliente\bin\Debug\InformaticaCliente.pdb
+E:\Users\diego\RiderProjects\InformaticaCliente\InformaticaCliente\obj\Debug\InformaticaCliente.csproj.AssemblyReference.cache
+E:\Users\diego\RiderProjects\InformaticaCliente\InformaticaCliente\obj\Debug\InformaticaCliente.csproj.SuggestedBindingRedirects.cache
+E:\Users\diego\RiderProjects\InformaticaCliente\InformaticaCliente\obj\Debug\InformaticaCliente.Properties.Resources.resources
+E:\Users\diego\RiderProjects\InformaticaCliente\InformaticaCliente\obj\Debug\InformaticaCliente.csproj.GenerateResource.cache
+E:\Users\diego\RiderProjects\InformaticaCliente\InformaticaCliente\obj\Debug\InformaticaCliente.csproj.CoreCompileInputs.cache
+E:\Users\diego\RiderProjects\InformaticaCliente\InformaticaCliente\obj\Debug\InformaticaCliente.exe
+E:\Users\diego\RiderProjects\InformaticaCliente\InformaticaCliente\obj\Debug\InformaticaCliente.pdb
+E:\Users\diego\RiderProjects\InformaticaCliente\InformaticaCliente\obj\Debug\InformaticaCliente.INICIO.Login.resources
+F:\Nueva carpeta\InformaticaCliente\InformaticaCliente\InformaticaCliente\bin\Debug\InformaticaCliente.exe.config
+F:\Nueva carpeta\InformaticaCliente\InformaticaCliente\InformaticaCliente\bin\Debug\InformaticaCliente.exe
+F:\Nueva carpeta\InformaticaCliente\InformaticaCliente\InformaticaCliente\bin\Debug\InformaticaCliente.pdb
+F:\Nueva carpeta\InformaticaCliente\InformaticaCliente\InformaticaCliente\obj\Debug\InformaticaCliente.csproj.AssemblyReference.cache
+F:\Nueva carpeta\InformaticaCliente\InformaticaCliente\InformaticaCliente\obj\Debug\InformaticaCliente.Consultas.Consultas.resources
+F:\Nueva carpeta\InformaticaCliente\InformaticaCliente\InformaticaCliente\obj\Debug\InformaticaCliente.INICIO.Login.resources
+F:\Nueva carpeta\InformaticaCliente\InformaticaCliente\InformaticaCliente\obj\Debug\InformaticaCliente.MENU.Menu.resources
+F:\Nueva carpeta\InformaticaCliente\InformaticaCliente\InformaticaCliente\obj\Debug\InformaticaCliente.Productos.Informatica.resources
+F:\Nueva carpeta\InformaticaCliente\InformaticaCliente\InformaticaCliente\obj\Debug\InformaticaCliente.Properties.Resources.resources
+F:\Nueva carpeta\InformaticaCliente\InformaticaCliente\InformaticaCliente\obj\Debug\InformaticaCliente.csproj.GenerateResource.cache
+F:\Nueva carpeta\InformaticaCliente\InformaticaCliente\InformaticaCliente\obj\Debug\InformaticaCliente.csproj.CoreCompileInputs.cache
+F:\Nueva carpeta\InformaticaCliente\InformaticaCliente\InformaticaCliente\obj\Debug\InformaticaCliente.exe
+F:\Nueva carpeta\InformaticaCliente\InformaticaCliente\InformaticaCliente\obj\Debug\InformaticaCliente.pdb
