@@ -21,7 +21,7 @@ namespace tiendainformatica.Entidades
             ApellidoCliente = apellidoCliente;
             this.num_doc = num_doc;
             Id_tipo_doc = id_tipo_doc;
-            Id_contacto = id_contacto;
+            //Id_contacto = id_contacto; no quiero
         }
 
     }
