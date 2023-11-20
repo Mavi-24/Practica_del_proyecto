@@ -16,7 +16,7 @@ namespace Libreria.Datos
 
         public HelperDB()
         {
-            cnn = new SqlConnection(Properties.Resources.ConexionString1);
+            cnn = new SqlConnection(Properties.Resources.ConexionString7);
         }
 
         public int Login(string usario, string pass)
@@ -96,6 +96,26 @@ namespace Libreria.Datos
 
             return lst;
         }
+
+        public List<TipoEmpleado> ObtenerTiposEmpleado()
+        {
+            List<TipoEmpleado> lst = new List<TipoEmpleado>();
+
+            DataTable t = EjecutarSP("sp_tipos_empleado");
+
+            foreach (DataRow dr in t.Rows)
+            {
+                int codigo = int.Parse(dr["cod_tipo_empleado"].ToString());
+                string tipo = dr["descripcion"].ToString();
+
+                TipoEmpleado aux = new TipoEmpleado(codigo, tipo);
+                lst.Add(aux);
+            }
+
+            return lst;
+        }
+
+
 
         public List<Producto> ObtenerAutopartes()
         {
@@ -199,17 +219,61 @@ namespace Libreria.Datos
         public List<Empleado> ObtenerEmpleados()
         {
             List<Empleado> lst = new List<Empleado>();
-            DataTable dt = EjecutarSP("pa_empleados");
+            DataTable dt = EjecutarSP("sp_empleados");
 
             foreach (DataRow fila in dt.Rows)
             {
                 Empleado aux = new Empleado();
                 aux.Legajo = int.Parse(fila["legajo"].ToString());
                 aux.Nombre = fila["nombre"].ToString();
+                aux.Tipo_empleado = int.Parse(fila["cod_tipo_empleado"].ToString());
                 lst.Add(aux);
             }
             return lst;
         }
+
+        public bool InsertarEmpleado(Empleado oEmpleado)
+        {
+            bool aux = false;
+            SqlTransaction t = null;
+
+            try
+            {
+                cnn.Open();
+                t = cnn.BeginTransaction();
+
+                SqlCommand cmdEmpleado = new SqlCommand("SP_INSERTAR_EMPLEADO", cnn, t);
+                cmdEmpleado.CommandType = CommandType.StoredProcedure;
+
+               
+                cmdEmpleado.Parameters.AddWithValue("@nombre", oEmpleado.Nombre);
+                cmdEmpleado.Parameters.AddWithValue("@cod_tipo_empleado", oEmpleado.Tipo_empleado);
+
+                cmdEmpleado.ExecuteNonQuery();
+
+                t.Commit();
+                aux = true;
+            }
+            catch (Exception e)
+            {
+                if (t != null)
+                {
+                    t.Rollback();
+                }
+               
+            }
+            finally
+            {
+                if (cnn != null && cnn.State == ConnectionState.Open)
+                {
+                    cnn.Close();
+                }
+            }
+
+            return aux;
+        }
+
+
 
         public bool InsertarMD(Factura oFactura)
         {
@@ -307,7 +371,7 @@ namespace Libreria.Datos
 
             DataTable dt = new DataTable();
 
-            SqlCommand cmd = new SqlCommand("sp_consultar_factura", cnn);
+            SqlCommand cmd = new SqlCommand("pa_consultar_factura", cnn);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("cod", nroFactura);
 
@@ -317,12 +381,11 @@ namespace Libreria.Datos
 
             foreach (DataRow fila in dt.Rows)
             {
-                oFactura.CodFactura = int.Parse(fila["nro_factura"].ToString());
-                oFactura.CodEmpleado = int.Parse(fila["id_vendedor"].ToString());
+                oFactura.CodFactura = int.Parse(fila["cod_factura"].ToString());
+                oFactura.CodEmpleado = int.Parse(fila["cod_empleado"].ToString());
                 oFactura.Fecha = Convert.ToDateTime(fila["fecha"].ToString());
-                //oFactura.NomCliente = fila["id_cliente"].ToString();
-                oFactura.NomCliente = int.Parse(fila["id_cliente"].ToString());
-                oFactura.CodPlan = int.Parse(fila["id_forma_envio"].ToString());
+                oFactura.NomCliente = fila["nom_cliente"].ToString();
+                oFactura.CodPlan = int.Parse(fila["cod_plan"].ToString());
 
                 /*
                 oFactura.Cuit = int.Parse(fila["cuit"].ToString());

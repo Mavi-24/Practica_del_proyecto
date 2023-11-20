@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            Microsoft.Reporting.WinForms.ReportDataSource reportDataSource1 = new Microsoft.Reporting.WinForms.ReportDataSource();
+            Microsoft.Reporting.WinForms.ReportDataSource reportDataSource2 = new Microsoft.Reporting.WinForms.ReportDataSource();
             this.paautomovilesBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.autopartesDS = new AutomotrizReport.AutopartesDS();
             this.reportViewer1 = new Microsoft.Reporting.WinForms.ReportViewer();
@@ -53,9 +53,9 @@
             // 
             // reportViewer1
             // 
-            reportDataSource1.Name = "AutosDS";
-            reportDataSource1.Value = this.paautomovilesBindingSource;
-            this.reportViewer1.LocalReport.DataSources.Add(reportDataSource1);
+            reportDataSource2.Name = "AutosDS";
+            reportDataSource2.Value = this.paautomovilesBindingSource;
+            this.reportViewer1.LocalReport.DataSources.Add(reportDataSource2);
             this.reportViewer1.LocalReport.ReportEmbeddedResource = "AutomotrizReport.AutosInfo.rdlc";
             this.reportViewer1.Location = new System.Drawing.Point(0, 56);
             this.reportViewer1.Name = "reportViewer1";
@@ -100,7 +100,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(738, 574);
+            this.ClientSize = new System.Drawing.Size(689, 574);
             this.Controls.Add(this.btnFacturas);
             this.Controls.Add(this.btnAutopartes);
             this.Controls.Add(this.btnReMenu);

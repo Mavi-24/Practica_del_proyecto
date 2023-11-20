@@ -22,7 +22,7 @@ namespace AutomotrizClient
         {
             string url = $"http://localhost:5046/login?user={txtUsuario.Text}&pass={txtContraseña.Text}";
             var res = await ClientSingleton.GetInstance().GetAsync(url);
-            var aux  = JsonConvert.DeserializeObject<int>(res);
+            var aux = JsonConvert.DeserializeObject<int>(res);
 
             if (aux == 1)
             {
@@ -38,7 +38,7 @@ namespace AutomotrizClient
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Application.Exit();
         }
     }
 }

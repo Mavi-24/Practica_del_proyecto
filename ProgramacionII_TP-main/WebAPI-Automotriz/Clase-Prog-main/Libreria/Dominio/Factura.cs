@@ -14,7 +14,7 @@ namespace Libreria.Dominio
         public int CodFactura { get; set; }
         public int CodEmpleado { get; set; }
         public DateTime Fecha { get; set; }
-        public int NomCliente { get; set; }
+        public string NomCliente { get; set; }
         public long Cuit { get; set; }
         public int CodPlan { get; set; }
         public int CodTipoCliente { get; set; }

@@ -29,151 +29,151 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Login));
-            this.lbUsario = new System.Windows.Forms.Label();
-            this.lbContra = new System.Windows.Forms.Label();
-            this.btnOk = new System.Windows.Forms.Button();
-            this.txtUsuario = new System.Windows.Forms.TextBox();
-            this.txtContraseña = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.SuspendLayout();
+            lbUsario = new Label();
+            lbContra = new Label();
+            btnOk = new Button();
+            txtUsuario = new TextBox();
+            txtContraseña = new TextBox();
+            button1 = new Button();
+            label1 = new Label();
+            label2 = new Label();
+            label3 = new Label();
+            SuspendLayout();
             // 
             // lbUsario
             // 
-            this.lbUsario.AutoSize = true;
-            this.lbUsario.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.lbUsario.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.lbUsario.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.lbUsario.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lbUsario.Location = new System.Drawing.Point(31, 51);
-            this.lbUsario.Name = "lbUsario";
-            this.lbUsario.Size = new System.Drawing.Size(59, 17);
-            this.lbUsario.TabIndex = 0;
-            this.lbUsario.Text = "Usuario";
+            lbUsario.AutoSize = true;
+            lbUsario.BackColor = Color.Transparent;
+            lbUsario.BorderStyle = BorderStyle.Fixed3D;
+            lbUsario.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold, GraphicsUnit.Point);
+            lbUsario.ForeColor = SystemColors.ControlText;
+            lbUsario.Location = new Point(107, 108);
+            lbUsario.Name = "lbUsario";
+            lbUsario.Size = new Size(83, 26);
+            lbUsario.TabIndex = 0;
+            lbUsario.Text = "Usuario";
             // 
             // lbContra
             // 
-            this.lbContra.AutoSize = true;
-            this.lbContra.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.lbContra.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.lbContra.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.lbContra.Location = new System.Drawing.Point(31, 95);
-            this.lbContra.Name = "lbContra";
-            this.lbContra.Size = new System.Drawing.Size(82, 17);
-            this.lbContra.TabIndex = 0;
-            this.lbContra.Text = "Contraseña";
+            lbContra.AutoSize = true;
+            lbContra.BackColor = Color.Transparent;
+            lbContra.BorderStyle = BorderStyle.Fixed3D;
+            lbContra.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold, GraphicsUnit.Point);
+            lbContra.Location = new Point(107, 237);
+            lbContra.Name = "lbContra";
+            lbContra.Size = new Size(118, 26);
+            lbContra.TabIndex = 0;
+            lbContra.Text = "Contraseña";
             // 
             // btnOk
             // 
-            this.btnOk.BackColor = System.Drawing.Color.RoyalBlue;
-            this.btnOk.FlatAppearance.BorderSize = 0;
-            this.btnOk.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnOk.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.btnOk.ForeColor = System.Drawing.Color.White;
-            this.btnOk.Location = new System.Drawing.Point(31, 142);
-            this.btnOk.Name = "btnOk";
-            this.btnOk.Size = new System.Drawing.Size(89, 29);
-            this.btnOk.TabIndex = 5;
-            this.btnOk.Text = "Confirmar";
-            this.btnOk.UseVisualStyleBackColor = false;
-            this.btnOk.Click += new System.EventHandler(this.btnOk_Click);
+            btnOk.BackColor = Color.RoyalBlue;
+            btnOk.FlatAppearance.BorderSize = 0;
+            btnOk.FlatStyle = FlatStyle.Popup;
+            btnOk.Font = new Font("Arial", 11.25F, FontStyle.Bold, GraphicsUnit.Point);
+            btnOk.ForeColor = Color.White;
+            btnOk.Location = new Point(107, 343);
+            btnOk.Name = "btnOk";
+            btnOk.Size = new Size(89, 29);
+            btnOk.TabIndex = 5;
+            btnOk.Text = "Confirmar";
+            btnOk.UseVisualStyleBackColor = false;
+            btnOk.Click += btnOk_Click;
             // 
             // txtUsuario
             // 
-            this.txtUsuario.Location = new System.Drawing.Point(31, 69);
-            this.txtUsuario.Name = "txtUsuario";
-            this.txtUsuario.Size = new System.Drawing.Size(142, 23);
-            this.txtUsuario.TabIndex = 1;
+            txtUsuario.Location = new Point(107, 150);
+            txtUsuario.Name = "txtUsuario";
+            txtUsuario.Size = new Size(175, 23);
+            txtUsuario.TabIndex = 1;
             // 
             // txtContraseña
             // 
-            this.txtContraseña.Location = new System.Drawing.Point(31, 113);
-            this.txtContraseña.Name = "txtContraseña";
-            this.txtContraseña.PasswordChar = '·';
-            this.txtContraseña.Size = new System.Drawing.Size(142, 23);
-            this.txtContraseña.TabIndex = 2;
-            this.txtContraseña.UseWaitCursor = true;
+            txtContraseña.Location = new Point(107, 277);
+            txtContraseña.Name = "txtContraseña";
+            txtContraseña.PasswordChar = '·';
+            txtContraseña.Size = new Size(175, 23);
+            txtContraseña.TabIndex = 2;
+            txtContraseña.UseWaitCursor = true;
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.Firebrick;
-            this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.button1.FlatAppearance.BorderSize = 0;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.button1.Font = new System.Drawing.Font("Arial Narrow", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(126, 141);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(89, 29);
-            this.button1.TabIndex = 6;
-            this.button1.Text = "Cancelar";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            button1.BackColor = Color.Firebrick;
+            button1.BackgroundImageLayout = ImageLayout.Center;
+            button1.FlatAppearance.BorderSize = 0;
+            button1.FlatStyle = FlatStyle.Popup;
+            button1.Font = new Font("Arial Narrow", 11.25F, FontStyle.Bold, GraphicsUnit.Point);
+            button1.ForeColor = Color.White;
+            button1.Location = new Point(202, 343);
+            button1.Name = "button1";
+            button1.Size = new Size(89, 29);
+            button1.TabIndex = 6;
+            button1.Text = "Cancelar";
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // label1
             // 
-            this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.Color.DarkGray;
-            this.label1.Font = new System.Drawing.Font("Arial", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point);
-            this.label1.ForeColor = System.Drawing.Color.Black;
-            this.label1.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.label1.Location = new System.Drawing.Point(10, 9);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(222, 24);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Ingrese Credenciales";
+            label1.AutoSize = true;
+            label1.BackColor = Color.Transparent;
+            label1.Font = new Font("Arial", 15.75F, FontStyle.Bold | FontStyle.Underline, GraphicsUnit.Point);
+            label1.ForeColor = Color.Black;
+            label1.ImageAlign = ContentAlignment.MiddleRight;
+            label1.Location = new Point(107, 50);
+            label1.Name = "label1";
+            label1.Size = new Size(222, 24);
+            label1.TabIndex = 0;
+            label1.Text = "Ingrese Credenciales";
             // 
             // label2
             // 
-            this.label2.AutoSize = true;
-            this.label2.BackColor = System.Drawing.Color.SteelBlue;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Italic | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point);
-            this.label2.ForeColor = System.Drawing.Color.Transparent;
-            this.label2.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.label2.Location = new System.Drawing.Point(189, 77);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(149, 15);
-            this.label2.TabIndex = 3;
-            this.label2.Text = "¿Has olvidado la usuario?";
+            label2.AutoSize = true;
+            label2.BackColor = Color.Transparent;
+            label2.FlatStyle = FlatStyle.Popup;
+            label2.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Bold | FontStyle.Underline, GraphicsUnit.Point);
+            label2.ForeColor = Color.Black;
+            label2.ImageAlign = ContentAlignment.MiddleRight;
+            label2.Location = new Point(107, 186);
+            label2.Name = "label2";
+            label2.Size = new Size(188, 16);
+            label2.TabIndex = 3;
+            label2.Text = "¿Has olvidado la usuario?";
             // 
             // label3
             // 
-            this.label3.AutoSize = true;
-            this.label3.BackColor = System.Drawing.Color.SteelBlue;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Italic | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point);
-            this.label3.ForeColor = System.Drawing.Color.Transparent;
-            this.label3.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.label3.Location = new System.Drawing.Point(189, 115);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(136, 15);
-            this.label3.TabIndex = 4;
-            this.label3.Text = "¿Has olvidado la clave?";
+            label3.AutoSize = true;
+            label3.BackColor = Color.Transparent;
+            label3.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Bold | FontStyle.Underline, GraphicsUnit.Point);
+            label3.ForeColor = Color.Black;
+            label3.ImageAlign = ContentAlignment.MiddleRight;
+            label3.Location = new Point(107, 303);
+            label3.Name = "label3";
+            label3.Size = new Size(175, 16);
+            label3.TabIndex = 4;
+            label3.Text = "¿Has olvidado la clave?";
             // 
             // Login
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(348, 185);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.txtContraseña);
-            this.Controls.Add(this.txtUsuario);
-            this.Controls.Add(this.btnOk);
-            this.Controls.Add(this.lbContra);
-            this.Controls.Add(this.lbUsario);
-            this.Name = "Login";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Login";
-            this.Load += new System.EventHandler(this.Form1_Load);
-            this.ResumeLayout(false);
-            this.PerformLayout();
-
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            BackgroundImageLayout = ImageLayout.Stretch;
+            ClientSize = new Size(435, 493);
+            Controls.Add(label3);
+            Controls.Add(label2);
+            Controls.Add(label1);
+            Controls.Add(button1);
+            Controls.Add(txtContraseña);
+            Controls.Add(txtUsuario);
+            Controls.Add(btnOk);
+            Controls.Add(lbContra);
+            Controls.Add(lbUsario);
+            Name = "Login";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "Login";
+            Load += Form1_Load;
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion

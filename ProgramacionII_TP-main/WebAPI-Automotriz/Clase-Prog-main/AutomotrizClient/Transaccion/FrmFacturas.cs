@@ -379,13 +379,13 @@ namespace AutomotrizClient
             }
             else
             {
-                MessageBox.Show("La factura no existe","Informe",MessageBoxButtons.OK,MessageBoxIcon.Error);
+                MessageBox.Show("La factura no existe", "Informe", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
         private void cboEmpleado_SelectedIndexChanged(object sender, EventArgs e)
         {
-            if(cboEmpleado.SelectedIndex != -1)
+            if (cboEmpleado.SelectedIndex != -1)
             {
                 cboClientes.Enabled = true;
             }
@@ -393,7 +393,7 @@ namespace AutomotrizClient
 
         private void cboClientes_SelectedIndexChanged(object sender, EventArgs e)
         {
-            if(cboClientes.SelectedIndex != -1)
+            if (cboClientes.SelectedIndex != -1)
             {
                 gbCargaProducto.Enabled = true;
                 dgvDetalles1.Enabled = true;

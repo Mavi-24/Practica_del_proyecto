@@ -406,18 +406,74 @@ C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0
 C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.pdb
 C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.genruntimeconfig.cache
 C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\ref\AutomotrizClient.dll
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.csproj.AssemblyReference.cache
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Login.resources
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Menu.resources
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Productos.Automoviles.resources
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Autopartes.resources
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.FrmFacturas.resources
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Menu.es.resources
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.csproj.GenerateResource.cache
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.GeneratedMSBuildEditorConfig.editorconfig
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.AssemblyInfoInputs.cache
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.AssemblyInfo.cs
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.csproj.CoreCompileInputs.cache
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.dll
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\refint\AutomotrizClient.dll
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.pdb
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.csproj.AssemblyReference.cache
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Login.resources
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Menu.resources
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Productos.Automoviles.resources
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Autopartes.resources
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.FrmFacturas.resources
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Menu.es.resources
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.csproj.GenerateResource.cache
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.AssemblyInfoInputs.cache
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.AssemblyInfo.cs
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.csproj.CoreCompileInputs.cache
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\refint\AutomotrizClient.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.pdb
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Productos.Empleados.resources
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\AutomotrizClient.exe
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\AutomotrizClient.deps.json
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\AutomotrizClient.runtimeconfig.json
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\AutomotrizClient.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\AutomotrizClient.pdb
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\es\AutomotrizClient.resources.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\Libreria.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\Libreria.pdb
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\es\AutomotrizClient.resources.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.csproj.CopyComplete
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.genruntimeconfig.cache
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\ref\AutomotrizClient.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\AutomotrizClient.exe
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\AutomotrizClient.deps.json
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\AutomotrizClient.runtimeconfig.json
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\AutomotrizClient.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\AutomotrizClient.pdb
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\es\AutomotrizClient.resources.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\Libreria.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\Libreria.pdb
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.csproj.AssemblyReference.cache
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Login.resources
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Menu.resources
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Productos.Automoviles.resources
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Autopartes.resources
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Productos.Empleados.resources
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Properties.Resources.resources
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.FrmFacturas.resources
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Menu.es.resources
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.csproj.GenerateResource.cache
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.GeneratedMSBuildEditorConfig.editorconfig
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.AssemblyInfoInputs.cache
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.AssemblyInfo.cs
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.csproj.CoreCompileInputs.cache
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\es\AutomotrizClient.resources.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.csproj.CopyComplete
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\refint\AutomotrizClient.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.pdb
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.genruntimeconfig.cache
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\ref\AutomotrizClient.dll

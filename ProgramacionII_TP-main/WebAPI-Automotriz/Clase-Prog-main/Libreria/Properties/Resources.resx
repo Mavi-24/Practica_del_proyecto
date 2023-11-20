@@ -118,15 +118,30 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ConexionString1" xml:space="preserve">
-    <value>Data Source=BELL-CASITA\SQLELODIN;Database=TiendaInformatica;Integrated Security=True;
-</value>
-    <comment>Luli</comment>
+    <value>Data Source=PC-NICO\SQLEXPRESS;Initial Catalog=AutomotrizDB_PROG;Integrated Security=True</value>
+    <comment>casa nico</comment>
+  </data>
+  <data name="ConexionString2" xml:space="preserve">
+    <value>Data Source=WS73116\SQLEXPRESS;Initial Catalog=AutomotrizDB_PROG;Integrated Security=True</value>
+    <comment>mds</comment>
+  </data>
+  <data name="ConexionString3" xml:space="preserve">
+    <value>Data Source=(localdb)\Servidor;Initial Catalog=AutomotrizDB;Integrated Security=True</value>
+    <comment>nb diego</comment>
+  </data>
+  <data name="ConexionString4" xml:space="preserve">
+    <value>Data Source=ATLAS-MCAFSA31G\SQLEXPRESS;Initial Catalog=Automotriz;Integrated Security=True</value>
+    <comment>eric</comment>
   </data>
   <data name="ConexionString5" xml:space="preserve">
     <value>Data Source=LAPTOP-VSIQL7HV\SQLEXPRESS;Initial Catalog=automotriz;Integrated Security=True</value>
   </data>
   <data name="ConexionString6" xml:space="preserve">
-    <value>Data Source=DESKTOP-1VU66T5\SQLEXPRESS;Initial Catalog=AutomotrizDB;Integrated Security=True</value>
+    <value>Data Source=Bell-Casita\SQLELODIN;Initial Catalog=AutomotrizDB_PROG;Integrated Security=True</value>
     <comment>Zombienot</comment>
+  </data>
+  <data name="ConexionString7" xml:space="preserve">
+    <value>Data Source=DESKTOP-BLN6TUB;Initial Catalog=AutomotrizDB_PROG;Integrated Security=True</value>
+    <comment>luli</comment>
   </data>
 </root>

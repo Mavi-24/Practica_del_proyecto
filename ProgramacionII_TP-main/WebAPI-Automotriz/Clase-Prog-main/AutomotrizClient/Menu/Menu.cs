@@ -44,14 +44,25 @@ namespace AutomotrizClient
 
         private void toolStripTextBox4_Click(object sender, EventArgs e)
         {
-            frmAutopartes frmAutop = new frmAutopartes();
-            frmAutop.ShowDialog();
+            //frmAutopartes frmAutop = new frmAutopartes();
+            //frmAutop.ShowDialog();
         }
 
         private void toolStripTextBox11_Click(object sender, EventArgs e)
         {
             Automoviles frmAutomoviles = new Automoviles();
             frmAutomoviles.ShowDialog();
+        }
+
+        private void toolStripTextBox13_Click(object sender, EventArgs e)
+        {
+            Empleados frmEmpleado = new Empleados();
+            frmEmpleado.ShowDialog();
+        }
+
+        private void toolStripTextBox7_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

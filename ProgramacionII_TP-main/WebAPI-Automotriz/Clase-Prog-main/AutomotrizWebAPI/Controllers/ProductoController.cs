@@ -47,35 +47,38 @@ namespace AutomotrizWebAPI.Controllers
             }
         }
 
-        //[HttpGet("/autopartes")]
-        //public IActionResult GetAutopartes()
-        //{
-        //    List<Autoparte> lst = null;
-        //    try
-        //    {
-        //        lst = oConexion.ObtenerAutopartes();
-        //        return Ok(lst);
-        //    }
-        //    catch (Exception)
-        //    {
-        //        return StatusCode(500, "Error interno! Intente luego");
-        //    }
-        //}
+        [HttpGet("/tipos_empleado")]
+        public IActionResult GetTiposEmpleado()
+        {
+            List<TipoEmpleado> lst = null;
+            try
+            {
+                lst = oConexion.ObtenerTiposEmpleado();
+                return Ok(lst);
+            }
+            catch (Exception)
+            {
+                return StatusCode(500, "Error interno! Intente luego");
+            }
+        }
 
-        //[HttpGet("/automoviles")]//no los borre por las dudas
-        //public IActionResult GetAutomoviles()
-        //{
-        //    List<Automovil> lst = null;
-        //    try
-        //    {
-        //        lst = oConexion.ObtenerAutomoviles();
-        //        return Ok(lst);
-        //    }
-        //    catch (Exception)
-        //    {
-        //        return StatusCode(500, "Error interno! Intente luego");
-        //    }
-        //}
+        [HttpPost("/insert_empleado")]
+        public IActionResult PostEmpleados(Empleado oEmpleado)
+        {
+            try
+            {
+                if (oEmpleado == null)
+                {
+                    return BadRequest("Datos incorrectos!");
+                }
+                return Ok(oConexion.InsertarEmpleado(oEmpleado));
+            }
+            catch (Exception)
+            {
+                return StatusCode(500, "Error interno! Intente luego");
+            }
+        }
+
 
         [HttpGet("/autopartes")]
         public IActionResult GetProductos() 
@@ -108,7 +111,7 @@ namespace AutomotrizWebAPI.Controllers
         }
 
 
-        //ERIC
+    
 
         [HttpPost("/autoparte")]
         public IActionResult PostAutoparte(Autoparte oAutoparte)

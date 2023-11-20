@@ -29,10 +29,17 @@ namespace AutomotrizClient
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmFacturas));
             lblNroFactura = new Label();
             label2 = new Label();
             txtFecha = new TextBox();
             label3 = new Label();
+            dgvDetalles1 = new DataGridView();
+            colCodigo = new DataGridViewTextBoxColumn();
+            colProd = new DataGridViewTextBoxColumn();
+            colCantidad = new DataGridViewTextBoxColumn();
+            colPrecio = new DataGridViewTextBoxColumn();
+            colBorrar = new DataGridViewButtonColumn();
             cboProductos = new ComboBox();
             btnAgregar = new Button();
             txtCantidad = new TextBox();
@@ -63,15 +70,9 @@ namespace AutomotrizClient
             btnBorrarFactura = new Button();
             lblBorrarFact = new Label();
             btnBorrar = new Button();
-            colBorrar = new DataGridViewButtonColumn();
-            colPrecio = new DataGridViewTextBoxColumn();
-            colCantidad = new DataGridViewTextBoxColumn();
-            colProd = new DataGridViewTextBoxColumn();
-            colCodigo = new DataGridViewTextBoxColumn();
-            dgvDetalles1 = new DataGridView();
+            ((System.ComponentModel.ISupportInitialize)dgvDetalles1).BeginInit();
             gbCargaProducto.SuspendLayout();
             gbBorrar.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)dgvDetalles1).BeginInit();
             SuspendLayout();
             // 
             // lblNroFactura
@@ -91,7 +92,7 @@ namespace AutomotrizClient
             label2.AutoSize = true;
             label2.Font = new Font("Microsoft Sans Serif", 8.25F, FontStyle.Bold, GraphicsUnit.Point);
             label2.ForeColor = Color.White;
-            label2.Location = new Point(576, 69);
+            label2.Location = new Point(548, 68);
             label2.Margin = new Padding(4, 0, 4, 0);
             label2.Name = "label2";
             label2.Size = new Size(46, 13);
@@ -101,7 +102,7 @@ namespace AutomotrizClient
             // txtFecha
             // 
             txtFecha.Enabled = false;
-            txtFecha.Location = new Point(642, 66);
+            txtFecha.Location = new Point(618, 64);
             txtFecha.Margin = new Padding(4, 3, 4, 3);
             txtFecha.MaxLength = 10;
             txtFecha.Name = "txtFecha";
@@ -113,12 +114,62 @@ namespace AutomotrizClient
             label3.AutoSize = true;
             label3.Font = new Font("Microsoft Sans Serif", 8.25F, FontStyle.Bold, GraphicsUnit.Point);
             label3.ForeColor = Color.White;
-            label3.Location = new Point(65, 163);
+            label3.Location = new Point(322, 121);
             label3.Margin = new Padding(4, 0, 4, 0);
             label3.Name = "label3";
             label3.Size = new Size(50, 13);
             label3.TabIndex = 6;
             label3.Text = "Cliente:";
+            // 
+            // dgvDetalles1
+            // 
+            dgvDetalles1.AllowUserToAddRows = false;
+            dgvDetalles1.AllowUserToDeleteRows = false;
+            dgvDetalles1.AllowUserToResizeColumns = false;
+            dgvDetalles1.BackgroundColor = SystemColors.ButtonShadow;
+            dgvDetalles1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dgvDetalles1.Columns.AddRange(new DataGridViewColumn[] { colCodigo, colProd, colCantidad, colPrecio, colBorrar });
+            dgvDetalles1.Location = new Point(66, 350);
+            dgvDetalles1.Margin = new Padding(4, 3, 4, 3);
+            dgvDetalles1.Name = "dgvDetalles1";
+            dgvDetalles1.ReadOnly = true;
+            dgvDetalles1.Size = new Size(738, 178);
+            dgvDetalles1.TabIndex = 14;
+            dgvDetalles1.CellContentClick += dgvDetalles_CellContentClick_1;
+            // 
+            // colCodigo
+            // 
+            colCodigo.HeaderText = "Codigo";
+            colCodigo.Name = "colCodigo";
+            colCodigo.ReadOnly = true;
+            // 
+            // colProd
+            // 
+            colProd.HeaderText = "Producto";
+            colProd.Name = "colProd";
+            colProd.ReadOnly = true;
+            colProd.Width = 220;
+            // 
+            // colCantidad
+            // 
+            colCantidad.HeaderText = "Cantidad";
+            colCantidad.Name = "colCantidad";
+            colCantidad.ReadOnly = true;
+            // 
+            // colPrecio
+            // 
+            colPrecio.HeaderText = "Precio";
+            colPrecio.Name = "colPrecio";
+            colPrecio.ReadOnly = true;
+            // 
+            // colBorrar
+            // 
+            colBorrar.HeaderText = "Eliminar";
+            colBorrar.Name = "colBorrar";
+            colBorrar.ReadOnly = true;
+            colBorrar.Resizable = DataGridViewTriState.True;
+            colBorrar.SortMode = DataGridViewColumnSortMode.Automatic;
+            colBorrar.Text = "Borrar";
             // 
             // cboProductos
             // 
@@ -136,7 +187,7 @@ namespace AutomotrizClient
             btnAgregar.BackColor = Color.White;
             btnAgregar.FlatStyle = FlatStyle.Flat;
             btnAgregar.ForeColor = Color.Black;
-            btnAgregar.Location = new Point(679, 27);
+            btnAgregar.Location = new Point(650, 22);
             btnAgregar.Margin = new Padding(4, 3, 4, 3);
             btnAgregar.Name = "btnAgregar";
             btnAgregar.Size = new Size(70, 27);
@@ -160,10 +211,10 @@ namespace AutomotrizClient
             btnAceptar.BackColor = Color.White;
             btnAceptar.FlatStyle = FlatStyle.Flat;
             btnAceptar.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
-            btnAceptar.Location = new Point(606, 619);
+            btnAceptar.Location = new Point(563, 619);
             btnAceptar.Margin = new Padding(4, 3, 4, 3);
             btnAceptar.Name = "btnAceptar";
-            btnAceptar.Size = new Size(124, 46);
+            btnAceptar.Size = new Size(95, 46);
             btnAceptar.TabIndex = 19;
             btnAceptar.Text = "Confirmar";
             btnAceptar.UseVisualStyleBackColor = false;
@@ -174,10 +225,10 @@ namespace AutomotrizClient
             btnCancelar.BackColor = Color.White;
             btnCancelar.FlatStyle = FlatStyle.Flat;
             btnCancelar.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
-            btnCancelar.Location = new Point(738, 619);
+            btnCancelar.Location = new Point(695, 619);
             btnCancelar.Margin = new Padding(4, 3, 4, 3);
             btnCancelar.Name = "btnCancelar";
-            btnCancelar.Size = new Size(141, 46);
+            btnCancelar.Size = new Size(107, 46);
             btnCancelar.TabIndex = 20;
             btnCancelar.Text = "Cancelar";
             btnCancelar.UseVisualStyleBackColor = false;
@@ -212,7 +263,7 @@ namespace AutomotrizClient
             lblPlan.AutoSize = true;
             lblPlan.Font = new Font("Microsoft Sans Serif", 8.25F, FontStyle.Bold, GraphicsUnit.Point);
             lblPlan.ForeColor = Color.White;
-            lblPlan.Location = new Point(79, 202);
+            lblPlan.Location = new Point(576, 121);
             lblPlan.Margin = new Padding(4, 0, 4, 0);
             lblPlan.Name = "lblPlan";
             lblPlan.Size = new Size(36, 13);
@@ -225,7 +276,7 @@ namespace AutomotrizClient
             cboPlan.DropDownStyle = ComboBoxStyle.DropDownList;
             cboPlan.FlatStyle = FlatStyle.Flat;
             cboPlan.FormattingEnabled = true;
-            cboPlan.Location = new Point(142, 198);
+            cboPlan.Location = new Point(620, 117);
             cboPlan.Margin = new Padding(4, 3, 4, 3);
             cboPlan.Name = "cboPlan";
             cboPlan.Size = new Size(182, 23);
@@ -249,7 +300,7 @@ namespace AutomotrizClient
             cboEmpleado.DropDownStyle = ComboBoxStyle.DropDownList;
             cboEmpleado.FlatStyle = FlatStyle.Flat;
             cboEmpleado.FormattingEnabled = true;
-            cboEmpleado.Location = new Point(142, 117);
+            cboEmpleado.Location = new Point(123, 117);
             cboEmpleado.Margin = new Padding(4, 3, 4, 3);
             cboEmpleado.Name = "cboEmpleado";
             cboEmpleado.Size = new Size(182, 23);
@@ -364,6 +415,7 @@ namespace AutomotrizClient
             // 
             // gbCargaProducto
             // 
+            gbCargaProducto.BackgroundImage = (Image)resources.GetObject("gbCargaProducto.BackgroundImage");
             gbCargaProducto.Controls.Add(label1);
             gbCargaProducto.Controls.Add(txtPrecio);
             gbCargaProducto.Controls.Add(lblProducto);
@@ -374,9 +426,9 @@ namespace AutomotrizClient
             gbCargaProducto.Controls.Add(cboProductos);
             gbCargaProducto.Controls.Add(lblCantidad);
             gbCargaProducto.ForeColor = Color.White;
-            gbCargaProducto.Location = new Point(66, 259);
+            gbCargaProducto.Location = new Point(66, 197);
             gbCargaProducto.Name = "gbCargaProducto";
-            gbCargaProducto.Size = new Size(762, 77);
+            gbCargaProducto.Size = new Size(738, 77);
             gbCargaProducto.TabIndex = 13;
             gbCargaProducto.TabStop = false;
             gbCargaProducto.Text = "Cargar Producto";
@@ -416,7 +468,7 @@ namespace AutomotrizClient
             cboClientes.Enabled = false;
             cboClientes.FlatStyle = FlatStyle.Flat;
             cboClientes.FormattingEnabled = true;
-            cboClientes.Location = new Point(140, 159);
+            cboClientes.Location = new Point(379, 117);
             cboClientes.Name = "cboClientes";
             cboClientes.Size = new Size(184, 23);
             cboClientes.TabIndex = 7;
@@ -431,6 +483,7 @@ namespace AutomotrizClient
             // 
             // gbBorrar
             // 
+            gbBorrar.BackgroundImage = (Image)resources.GetObject("gbBorrar.BackgroundImage");
             gbBorrar.Controls.Add(btnBorrarFactura);
             gbBorrar.Controls.Add(lblBorrarFact);
             gbBorrar.Controls.Add(txtBorrarFact);
@@ -467,66 +520,18 @@ namespace AutomotrizClient
             // 
             btnBorrar.Location = new Point(43, 631);
             btnBorrar.Name = "btnBorrar";
-            btnBorrar.Size = new Size(88, 27);
+            btnBorrar.Size = new Size(189, 27);
             btnBorrar.TabIndex = 22;
-            btnBorrar.Text = "Borrar";
+            btnBorrar.Text = "Limpiar Campos";
             btnBorrar.UseVisualStyleBackColor = true;
             btnBorrar.Click += btnBorrar_Click;
-            // 
-            // colBorrar
-            // 
-            colBorrar.HeaderText = "Eliminar";
-            colBorrar.Name = "colBorrar";
-            colBorrar.ReadOnly = true;
-            colBorrar.Resizable = DataGridViewTriState.True;
-            colBorrar.SortMode = DataGridViewColumnSortMode.Automatic;
-            colBorrar.Text = "Borrar";
-            // 
-            // colPrecio
-            // 
-            colPrecio.HeaderText = "Precio";
-            colPrecio.Name = "colPrecio";
-            colPrecio.ReadOnly = true;
-            // 
-            // colCantidad
-            // 
-            colCantidad.HeaderText = "Cantidad";
-            colCantidad.Name = "colCantidad";
-            colCantidad.ReadOnly = true;
-            // 
-            // colProd
-            // 
-            colProd.HeaderText = "Producto";
-            colProd.Name = "colProd";
-            colProd.ReadOnly = true;
-            colProd.Width = 220;
-            // 
-            // colCodigo
-            // 
-            colCodigo.HeaderText = "Codigo";
-            colCodigo.Name = "colCodigo";
-            colCodigo.ReadOnly = true;
-            // 
-            // dgvDetalles1
-            // 
-            dgvDetalles1.AllowUserToAddRows = false;
-            dgvDetalles1.AllowUserToDeleteRows = false;
-            dgvDetalles1.AllowUserToResizeColumns = false;
-            dgvDetalles1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvDetalles1.Columns.AddRange(new DataGridViewColumn[] { colCodigo, colProd, colCantidad, colPrecio, colBorrar });
-            dgvDetalles1.Location = new Point(66, 350);
-            dgvDetalles1.Margin = new Padding(4, 3, 4, 3);
-            dgvDetalles1.Name = "dgvDetalles1";
-            dgvDetalles1.ReadOnly = true;
-            dgvDetalles1.Size = new Size(762, 178);
-            dgvDetalles1.TabIndex = 14;
-            dgvDetalles1.CellContentClick += dgvDetalles_CellContentClick_1;
             // 
             // FrmFacturas
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(64, 64, 64);
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             ClientSize = new Size(894, 690);
             Controls.Add(btnBorrar);
             Controls.Add(gbBorrar);
@@ -558,11 +563,11 @@ namespace AutomotrizClient
             StartPosition = FormStartPosition.CenterParent;
             Text = "Nuevo Presupuesto";
             Load += Frm_Facturas_Load_1;
+            ((System.ComponentModel.ISupportInitialize)dgvDetalles1).EndInit();
             gbCargaProducto.ResumeLayout(false);
             gbCargaProducto.PerformLayout();
             gbBorrar.ResumeLayout(false);
             gbBorrar.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)dgvDetalles1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -573,6 +578,7 @@ namespace AutomotrizClient
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txtFecha;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.DataGridView dgvDetalles1;
         private System.Windows.Forms.ComboBox cboProductos;
         private System.Windows.Forms.Button btnAgregar;
         private System.Windows.Forms.TextBox txtCantidad;
@@ -603,11 +609,10 @@ namespace AutomotrizClient
         private Button btnBorrarFactura;
         private Label lblBorrarFact;
         private Button btnBorrar;
-        private DataGridViewButtonColumn colBorrar;
-        private DataGridViewTextBoxColumn colPrecio;
-        private DataGridViewTextBoxColumn colCantidad;
-        private DataGridViewTextBoxColumn colProd;
         private DataGridViewTextBoxColumn colCodigo;
-        private DataGridView dgvDetalles1;
+        private DataGridViewTextBoxColumn colProd;
+        private DataGridViewTextBoxColumn colCantidad;
+        private DataGridViewTextBoxColumn colPrecio;
+        private DataGridViewButtonColumn colBorrar;
     }
 }

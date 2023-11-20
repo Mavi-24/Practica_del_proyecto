@@ -124,17 +124,31 @@ C:\Users\diego\Desktop\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreri
 C:\Users\diego\Desktop\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\refint\Libreria.dll
 C:\Users\diego\Desktop\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.pdb
 C:\Users\diego\Desktop\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\ref\Libreria.dll
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\bin\Debug\net6.0\Libreria.deps.json
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\bin\Debug\net6.0\Libreria.dll
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\bin\Debug\net6.0\Libreria.pdb
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.csproj.AssemblyReference.cache
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.Properties.Resources.resources
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.csproj.GenerateResource.cache
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfoInputs.cache
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfo.cs
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.csproj.CoreCompileInputs.cache
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.dll
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\refint\Libreria.dll
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.pdb
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\ref\Libreria.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\bin\Debug\net6.0\Libreria.deps.json
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\bin\Debug\net6.0\Libreria.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\bin\Debug\net6.0\Libreria.pdb
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.csproj.AssemblyReference.cache
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.Properties.Resources.resources
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.csproj.GenerateResource.cache
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfoInputs.cache
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfo.cs
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.csproj.CoreCompileInputs.cache
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\refint\Libreria.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.pdb
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\ref\Libreria.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\bin\Debug\net6.0\Libreria.deps.json
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\bin\Debug\net6.0\Libreria.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\bin\Debug\net6.0\Libreria.pdb
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.csproj.AssemblyReference.cache
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.Properties.Resources.resources
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.csproj.GenerateResource.cache
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfoInputs.cache
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfo.cs
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.csproj.CoreCompileInputs.cache
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\refint\Libreria.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.pdb
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\ref\Libreria.dll

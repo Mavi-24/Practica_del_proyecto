@@ -470,23 +470,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\diego\\.nuget\\packages\\": {},
-    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\LUCRE\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\diego\\Documents\\TUP\\Para los chicos\\ProgramacionII_TP-main\\ProgramacionII_TP-main\\WebAPI-Automotriz\\Clase-Prog-main\\Libreria\\Libreria.csproj",
+      "projectUniqueName": "F:\\Para los chicos\\Nueva carpeta\\ProgramacionII_TP-main\\WebAPI-Automotriz\\Clase-Prog-main\\Libreria\\Libreria.csproj",
       "projectName": "Libreria",
-      "projectPath": "E:\\diego\\Documents\\TUP\\Para los chicos\\ProgramacionII_TP-main\\ProgramacionII_TP-main\\WebAPI-Automotriz\\Clase-Prog-main\\Libreria\\Libreria.csproj",
-      "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "E:\\diego\\Documents\\TUP\\Para los chicos\\ProgramacionII_TP-main\\ProgramacionII_TP-main\\WebAPI-Automotriz\\Clase-Prog-main\\Libreria\\obj\\",
+      "projectPath": "F:\\Para los chicos\\Nueva carpeta\\ProgramacionII_TP-main\\WebAPI-Automotriz\\Clase-Prog-main\\Libreria\\Libreria.csproj",
+      "packagesPath": "C:\\Users\\LUCRE\\.nuget\\packages\\",
+      "outputPath": "F:\\Para los chicos\\Nueva carpeta\\ProgramacionII_TP-main\\WebAPI-Automotriz\\Clase-Prog-main\\Libreria\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LUCRE\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -535,7 +535,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

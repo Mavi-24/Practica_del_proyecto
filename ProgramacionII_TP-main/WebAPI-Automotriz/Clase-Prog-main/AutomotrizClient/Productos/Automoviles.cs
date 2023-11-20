@@ -184,5 +184,14 @@ namespace AutomotrizClient.Productos
             }
         }
 
+        private void gpbMain_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cboVehiculos_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

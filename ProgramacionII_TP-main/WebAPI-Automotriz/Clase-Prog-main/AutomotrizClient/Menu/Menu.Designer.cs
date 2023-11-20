@@ -29,168 +29,153 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Menu));
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.toolStripMenuItem3 = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
-            this.toolStripMenuItem5 = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripTextBox4 = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripTextBox2 = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripTextBox10 = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripTextBox1 = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripTextBox11 = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripTextBox12 = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripTextBox13 = new System.Windows.Forms.ToolStripMenuItem();
-            this.transaccionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.ventaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripTextBox7 = new System.Windows.Forms.ToolStripMenuItem();
-            this.usuarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripTextBox5 = new System.Windows.Forms.ToolStripTextBox();
-            this.toolStripTextBox8 = new System.Windows.Forms.ToolStripTextBox();
-            this.toolStripTextBox14 = new System.Windows.Forms.ToolStripTextBox();
-            this.toolStripTextBox9 = new System.Windows.Forms.ToolStripTextBox();
-            this.toolStripTextBox6 = new System.Windows.Forms.ToolStripTextBox();
-            this.menuStrip1.SuspendLayout();
-            this.SuspendLayout();
+            menuStrip1 = new MenuStrip();
+            toolStripMenuItem3 = new ToolStripMenuItem();
+            toolStripSeparator2 = new ToolStripSeparator();
+            toolStripMenuItem5 = new ToolStripMenuItem();
+            toolStripTextBox4 = new ToolStripMenuItem();
+            toolStripTextBox2 = new ToolStripMenuItem();
+            toolStripTextBox10 = new ToolStripMenuItem();
+            toolStripTextBox1 = new ToolStripMenuItem();
+            toolStripTextBox13 = new ToolStripMenuItem();
+            transaccionToolStripMenuItem = new ToolStripMenuItem();
+            ventaToolStripMenuItem = new ToolStripMenuItem();
+            toolStripTextBox7 = new ToolStripMenuItem();
+            usuarioToolStripMenuItem = new ToolStripMenuItem();
+            toolStripTextBox5 = new ToolStripTextBox();
+            toolStripTextBox8 = new ToolStripTextBox();
+            toolStripTextBox14 = new ToolStripTextBox();
+            toolStripTextBox9 = new ToolStripTextBox();
+            toolStripTextBox6 = new ToolStripTextBox();
+            toolStripTextBox11 = new ToolStripMenuItem();
+            toolStripTextBox12 = new ToolStripMenuItem();
+            menuStrip1.SuspendLayout();
+            SuspendLayout();
             // 
             // menuStrip1
             // 
-            resources.ApplyResources(this.menuStrip1, "menuStrip1");
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.toolStripMenuItem3});
-            this.menuStrip1.Name = "menuStrip1";
+            resources.ApplyResources(menuStrip1, "menuStrip1");
+            menuStrip1.Items.AddRange(new ToolStripItem[] { toolStripMenuItem3 });
+            menuStrip1.Name = "menuStrip1";
             // 
             // toolStripMenuItem3
             // 
-            resources.ApplyResources(this.toolStripMenuItem3, "toolStripMenuItem3");
-            this.toolStripMenuItem3.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.toolStripSeparator2,
-            this.toolStripMenuItem5,
-            this.toolStripTextBox1,
-            this.transaccionToolStripMenuItem,
-            this.toolStripTextBox7});
-            this.toolStripMenuItem3.Name = "toolStripMenuItem3";
+            resources.ApplyResources(toolStripMenuItem3, "toolStripMenuItem3");
+            toolStripMenuItem3.DropDownItems.AddRange(new ToolStripItem[] { toolStripSeparator2, toolStripMenuItem5, toolStripTextBox1, transaccionToolStripMenuItem, toolStripTextBox7 });
+            toolStripMenuItem3.Name = "toolStripMenuItem3";
             // 
             // toolStripSeparator2
             // 
-            resources.ApplyResources(this.toolStripSeparator2, "toolStripSeparator2");
-            this.toolStripSeparator2.Name = "toolStripSeparator2";
+            resources.ApplyResources(toolStripSeparator2, "toolStripSeparator2");
+            toolStripSeparator2.Name = "toolStripSeparator2";
             // 
             // toolStripMenuItem5
             // 
-            resources.ApplyResources(this.toolStripMenuItem5, "toolStripMenuItem5");
-            this.toolStripMenuItem5.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.toolStripTextBox4,
-            this.toolStripTextBox2,
-            this.toolStripTextBox10});
-            this.toolStripMenuItem5.Name = "toolStripMenuItem5";
+            resources.ApplyResources(toolStripMenuItem5, "toolStripMenuItem5");
+            toolStripMenuItem5.DropDownItems.AddRange(new ToolStripItem[] { toolStripTextBox4, toolStripTextBox2, toolStripTextBox10 });
+            toolStripMenuItem5.Name = "toolStripMenuItem5";
             // 
             // toolStripTextBox4
             // 
-            resources.ApplyResources(this.toolStripTextBox4, "toolStripTextBox4");
-            this.toolStripTextBox4.Name = "toolStripTextBox4";
-            this.toolStripTextBox4.Click += new System.EventHandler(this.toolStripTextBox4_Click);
+            resources.ApplyResources(toolStripTextBox4, "toolStripTextBox4");
+            toolStripTextBox4.Name = "toolStripTextBox4";
+            toolStripTextBox4.Click += toolStripTextBox4_Click;
             // 
             // toolStripTextBox2
             // 
-            resources.ApplyResources(this.toolStripTextBox2, "toolStripTextBox2");
-            this.toolStripTextBox2.Name = "toolStripTextBox2";
+            resources.ApplyResources(toolStripTextBox2, "toolStripTextBox2");
+            toolStripTextBox2.Name = "toolStripTextBox2";
             // 
             // toolStripTextBox10
             // 
-            resources.ApplyResources(this.toolStripTextBox10, "toolStripTextBox10");
-            this.toolStripTextBox10.Name = "toolStripTextBox10";
+            resources.ApplyResources(toolStripTextBox10, "toolStripTextBox10");
+            toolStripTextBox10.Name = "toolStripTextBox10";
             // 
             // toolStripTextBox1
             // 
-            resources.ApplyResources(this.toolStripTextBox1, "toolStripTextBox1");
-            this.toolStripTextBox1.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.toolStripTextBox11,
-            this.toolStripTextBox12,
-            this.toolStripTextBox13});
-            this.toolStripTextBox1.Name = "toolStripTextBox1";
-            // 
-            // toolStripTextBox11
-            // 
-            resources.ApplyResources(this.toolStripTextBox11, "toolStripTextBox11");
-            this.toolStripTextBox11.Name = "toolStripTextBox11";
-            this.toolStripTextBox11.Click += new System.EventHandler(this.toolStripTextBox11_Click);
-            // 
-            // toolStripTextBox12
-            // 
-            resources.ApplyResources(this.toolStripTextBox12, "toolStripTextBox12");
-            this.toolStripTextBox12.Name = "toolStripTextBox12";
-            this.toolStripTextBox12.Click += new System.EventHandler(this.toolStripTextBox12_Click);
+            resources.ApplyResources(toolStripTextBox1, "toolStripTextBox1");
+            toolStripTextBox1.DropDownItems.AddRange(new ToolStripItem[] { toolStripTextBox11, toolStripTextBox12, toolStripTextBox13 });
+            toolStripTextBox1.Name = "toolStripTextBox1";
             // 
             // toolStripTextBox13
             // 
-            resources.ApplyResources(this.toolStripTextBox13, "toolStripTextBox13");
-            this.toolStripTextBox13.Name = "toolStripTextBox13";
+            resources.ApplyResources(toolStripTextBox13, "toolStripTextBox13");
+            toolStripTextBox13.Name = "toolStripTextBox13";
+            toolStripTextBox13.Click += toolStripTextBox13_Click;
             // 
             // transaccionToolStripMenuItem
             // 
-            resources.ApplyResources(this.transaccionToolStripMenuItem, "transaccionToolStripMenuItem");
-            this.transaccionToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.ventaToolStripMenuItem});
-            this.transaccionToolStripMenuItem.Name = "transaccionToolStripMenuItem";
+            resources.ApplyResources(transaccionToolStripMenuItem, "transaccionToolStripMenuItem");
+            transaccionToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { ventaToolStripMenuItem });
+            transaccionToolStripMenuItem.Name = "transaccionToolStripMenuItem";
             // 
             // ventaToolStripMenuItem
             // 
-            resources.ApplyResources(this.ventaToolStripMenuItem, "ventaToolStripMenuItem");
-            this.ventaToolStripMenuItem.Name = "ventaToolStripMenuItem";
-            this.ventaToolStripMenuItem.Click += new System.EventHandler(this.ventaToolStripMenuItem_Click);
+            resources.ApplyResources(ventaToolStripMenuItem, "ventaToolStripMenuItem");
+            ventaToolStripMenuItem.Name = "ventaToolStripMenuItem";
+            ventaToolStripMenuItem.Click += ventaToolStripMenuItem_Click;
             // 
             // toolStripTextBox7
             // 
-            resources.ApplyResources(this.toolStripTextBox7, "toolStripTextBox7");
-            this.toolStripTextBox7.Name = "toolStripTextBox7";
+            resources.ApplyResources(toolStripTextBox7, "toolStripTextBox7");
+            toolStripTextBox7.Name = "toolStripTextBox7";
+            toolStripTextBox7.Click += toolStripTextBox7_Click;
             // 
             // usuarioToolStripMenuItem
             // 
-            resources.ApplyResources(this.usuarioToolStripMenuItem, "usuarioToolStripMenuItem");
-            this.usuarioToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.toolStripTextBox5,
-            this.toolStripTextBox8,
-            this.toolStripTextBox14});
-            this.usuarioToolStripMenuItem.Name = "usuarioToolStripMenuItem";
+            resources.ApplyResources(usuarioToolStripMenuItem, "usuarioToolStripMenuItem");
+            usuarioToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { toolStripTextBox5, toolStripTextBox8, toolStripTextBox14 });
+            usuarioToolStripMenuItem.Name = "usuarioToolStripMenuItem";
             // 
             // toolStripTextBox5
             // 
-            resources.ApplyResources(this.toolStripTextBox5, "toolStripTextBox5");
-            this.toolStripTextBox5.Name = "toolStripTextBox5";
+            resources.ApplyResources(toolStripTextBox5, "toolStripTextBox5");
+            toolStripTextBox5.Name = "toolStripTextBox5";
             // 
             // toolStripTextBox8
             // 
-            resources.ApplyResources(this.toolStripTextBox8, "toolStripTextBox8");
-            this.toolStripTextBox8.Name = "toolStripTextBox8";
+            resources.ApplyResources(toolStripTextBox8, "toolStripTextBox8");
+            toolStripTextBox8.Name = "toolStripTextBox8";
             // 
             // toolStripTextBox14
             // 
-            resources.ApplyResources(this.toolStripTextBox14, "toolStripTextBox14");
-            this.toolStripTextBox14.Name = "toolStripTextBox14";
+            resources.ApplyResources(toolStripTextBox14, "toolStripTextBox14");
+            toolStripTextBox14.Name = "toolStripTextBox14";
             // 
             // toolStripTextBox9
             // 
-            resources.ApplyResources(this.toolStripTextBox9, "toolStripTextBox9");
-            this.toolStripTextBox9.Name = "toolStripTextBox9";
+            resources.ApplyResources(toolStripTextBox9, "toolStripTextBox9");
+            toolStripTextBox9.Name = "toolStripTextBox9";
             // 
             // toolStripTextBox6
             // 
-            resources.ApplyResources(this.toolStripTextBox6, "toolStripTextBox6");
-            this.toolStripTextBox6.Name = "toolStripTextBox6";
+            resources.ApplyResources(toolStripTextBox6, "toolStripTextBox6");
+            toolStripTextBox6.Name = "toolStripTextBox6";
+            // 
+            // toolStripTextBox11
+            // 
+            resources.ApplyResources(toolStripTextBox11, "toolStripTextBox11");
+            toolStripTextBox11.Name = "toolStripTextBox11";
+            toolStripTextBox11.Click += toolStripTextBox11_Click;
+            // 
+            // toolStripTextBox12
+            // 
+            resources.ApplyResources(toolStripTextBox12, "toolStripTextBox12");
+            toolStripTextBox12.Name = "toolStripTextBox12";
+            toolStripTextBox12.Click += toolStripTextBox12_Click;
             // 
             // Menu
             // 
             resources.ApplyResources(this, "$this");
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Controls.Add(this.menuStrip1);
-            this.MainMenuStrip = this.menuStrip1;
-            this.Name = "Menu";
-            this.Load += new System.EventHandler(this.Menu_Load);
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
-            this.ResumeLayout(false);
-            this.PerformLayout();
-
+            AutoScaleMode = AutoScaleMode.Font;
+            Controls.Add(menuStrip1);
+            MainMenuStrip = menuStrip1;
+            Name = "Menu";
+            Load += Menu_Load;
+            menuStrip1.ResumeLayout(false);
+            menuStrip1.PerformLayout();
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
@@ -205,8 +190,6 @@
         private ToolStripMenuItem toolStripTextBox1;
         private ToolStripTextBox toolStripTextBox14;
         private ToolStripTextBox toolStripTextBox9;
-        private ToolStripMenuItem toolStripTextBox11;
-        private ToolStripMenuItem toolStripTextBox12;
         private ToolStripMenuItem transaccionToolStripMenuItem;
         private ToolStripMenuItem ventaToolStripMenuItem;
         private ToolStripMenuItem toolStripTextBox4;
@@ -214,5 +197,7 @@
         private ToolStripMenuItem toolStripTextBox10;
         private ToolStripMenuItem toolStripTextBox13;
         private ToolStripMenuItem toolStripTextBox7;
+        private ToolStripMenuItem toolStripTextBox11;
+        private ToolStripMenuItem toolStripTextBox12;
     }
 }

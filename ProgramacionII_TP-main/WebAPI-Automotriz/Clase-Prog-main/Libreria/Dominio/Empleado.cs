@@ -10,5 +10,7 @@ namespace Libreria.Dominio
     {
         public int Legajo { get; set; }
         public string Nombre { get; set; }
+
+        public int Tipo_empleado { get; set; }
     }
 }

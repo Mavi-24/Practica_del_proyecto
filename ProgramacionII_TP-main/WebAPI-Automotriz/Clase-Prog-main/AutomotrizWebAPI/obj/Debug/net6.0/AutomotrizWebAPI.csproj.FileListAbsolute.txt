@@ -323,43 +323,83 @@ C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0
 C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.pdb
 C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.genruntimeconfig.cache
 C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\ref\AutomotrizWebAPI.dll
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.Development.json
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.json
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.exe
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.deps.json
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.runtimeconfig.json
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.dll
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.pdb
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.dll
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.pdb
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.AssemblyReference.cache
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.GeneratedMSBuildEditorConfig.editorconfig
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfoInputs.cache
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfo.cs
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CoreCompileInputs.cache
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cs
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cache
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.AutomotrizWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.AutomotrizWebAPI.props
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AutomotrizWebAPI.props
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AutomotrizWebAPI.props
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.build.json
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.development.json
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\scopedcss\bundle\AutomotrizWebAPI.styles.css
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CopyComplete
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.dll
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\refint\AutomotrizWebAPI.dll
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.pdb
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.genruntimeconfig.cache
-E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\ref\AutomotrizWebAPI.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.json
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.exe
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.deps.json
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.runtimeconfig.json
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.pdb
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.pdb
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.AssemblyReference.cache
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfoInputs.cache
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfo.cs
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CoreCompileInputs.cache
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.AutomotrizWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.AutomotrizWebAPI.props
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AutomotrizWebAPI.props
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AutomotrizWebAPI.props
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\scopedcss\bundle\AutomotrizWebAPI.styles.css
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CopyComplete
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\refint\AutomotrizWebAPI.dll
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.pdb
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.genruntimeconfig.cache
+E:\diego\Documents\TUP\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\ref\AutomotrizWebAPI.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.Development.json
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.json
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.exe
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.deps.json
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.runtimeconfig.json
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.pdb
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.pdb
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.AssemblyReference.cache
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfoInputs.cache
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfo.cs
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CoreCompileInputs.cache
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.AutomotrizWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.AutomotrizWebAPI.props
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AutomotrizWebAPI.props
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AutomotrizWebAPI.props
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\scopedcss\bundle\AutomotrizWebAPI.styles.css
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CopyComplete
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\refint\AutomotrizWebAPI.dll
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.pdb
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.genruntimeconfig.cache
+F:\Para los chicos\Nueva carpeta\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\ref\AutomotrizWebAPI.dll
