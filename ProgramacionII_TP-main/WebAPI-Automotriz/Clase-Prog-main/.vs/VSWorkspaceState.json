@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AutomotrizClient",
+    "\\AutomotrizClient\\Http",
+    "\\AutomotrizClient\\Login",
+    "\\AutomotrizClient\\Menu",
+    "\\AutomotrizClient\\Productos",
+    "\\AutomotrizClient\\Transaccion",
+    "\\AutomotrizWebAPI",
+    "\\Libreria",
+    "\\Libreria\\Properties"
+  ],
+  "SelectedNode": "\\AutomotrizClient\\Transaccion\\FrmFacturas.cs",
+  "PreviewInSolutionExplorer": false
+}

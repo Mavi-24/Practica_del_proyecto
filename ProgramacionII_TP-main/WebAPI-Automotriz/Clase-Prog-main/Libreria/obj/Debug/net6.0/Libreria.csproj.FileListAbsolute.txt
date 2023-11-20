@@ -1,0 +1,140 @@
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\Libreria\bin\Debug\net6.0\Libreria.deps.json
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\Libreria\bin\Debug\net6.0\Libreria.dll
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\Libreria\bin\Debug\net6.0\Libreria.pdb
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.csproj.AssemblyReference.cache
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.Properties.Resources.resources
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.csproj.GenerateResource.cache
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfoInputs.cache
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfo.cs
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.csproj.CoreCompileInputs.cache
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.dll
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\refint\Libreria.dll
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.pdb
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\ref\Libreria.dll
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\Libreria\bin\Debug\net6.0\Libreria.deps.json
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\Libreria\bin\Debug\net6.0\Libreria.dll
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\Libreria\bin\Debug\net6.0\Libreria.pdb
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.csproj.AssemblyReference.cache
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.Properties.Resources.resources
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.csproj.GenerateResource.cache
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfoInputs.cache
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfo.cs
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.dll
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\refint\Libreria.dll
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.pdb
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\ref\Libreria.dll
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\Libreria\bin\Debug\net6.0\Libreria.deps.json
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\Libreria\bin\Debug\net6.0\Libreria.dll
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\Libreria\bin\Debug\net6.0\Libreria.pdb
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.csproj.AssemblyReference.cache
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.Properties.Resources.resources
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.csproj.GenerateResource.cache
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfoInputs.cache
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfo.cs
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.csproj.CoreCompileInputs.cache
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.dll
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\refint\Libreria.dll
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.pdb
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\ref\Libreria.dll
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\Libreria\bin\Debug\net6.0\Libreria.deps.json
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\Libreria\bin\Debug\net6.0\Libreria.dll
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\Libreria\bin\Debug\net6.0\Libreria.pdb
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.csproj.AssemblyReference.cache
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.Properties.Resources.resources
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.csproj.GenerateResource.cache
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfoInputs.cache
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfo.cs
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.dll
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\refint\Libreria.dll
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.pdb
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\ref\Libreria.dll
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\Libreria\bin\Debug\net6.0\Libreria.deps.json
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\Libreria\bin\Debug\net6.0\Libreria.dll
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\Libreria\bin\Debug\net6.0\Libreria.pdb
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.Properties.Resources.resources
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfo.cs
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.dll
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\refint\Libreria.dll
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\Libreria.pdb
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\Libreria\obj\Debug\net6.0\ref\Libreria.dll
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\Libreria\bin\Debug\net6.0\Libreria.deps.json
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\Libreria\bin\Debug\net6.0\Libreria.dll
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\Libreria\bin\Debug\net6.0\Libreria.pdb
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\Libreria\obj\Debug\net6.0\Libreria.csproj.AssemblyReference.cache
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\Libreria\obj\Debug\net6.0\Libreria.Properties.Resources.resources
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\Libreria\obj\Debug\net6.0\Libreria.csproj.GenerateResource.cache
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\Libreria\obj\Debug\net6.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfoInputs.cache
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfo.cs
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\Libreria\obj\Debug\net6.0\Libreria.csproj.CoreCompileInputs.cache
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\Libreria\obj\Debug\net6.0\Libreria.dll
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\Libreria\obj\Debug\net6.0\refint\Libreria.dll
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\Libreria\obj\Debug\net6.0\Libreria.pdb
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\Libreria\obj\Debug\net6.0\ref\Libreria.dll
+C:\Users\ERIC\Desktop\Clase-Prog-main\Libreria\bin\Debug\net6.0\Libreria.deps.json
+C:\Users\ERIC\Desktop\Clase-Prog-main\Libreria\bin\Debug\net6.0\Libreria.dll
+C:\Users\ERIC\Desktop\Clase-Prog-main\Libreria\bin\Debug\net6.0\Libreria.pdb
+C:\Users\ERIC\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.csproj.AssemblyReference.cache
+C:\Users\ERIC\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.Properties.Resources.resources
+C:\Users\ERIC\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.csproj.GenerateResource.cache
+C:\Users\ERIC\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERIC\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfoInputs.cache
+C:\Users\ERIC\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfo.cs
+C:\Users\ERIC\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\ERIC\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.dll
+C:\Users\ERIC\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\refint\Libreria.dll
+C:\Users\ERIC\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.pdb
+C:\Users\ERIC\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\ref\Libreria.dll
+C:\Users\maris\Desktop\Clase-Prog-main\Libreria\bin\Debug\net6.0\Libreria.deps.json
+C:\Users\maris\Desktop\Clase-Prog-main\Libreria\bin\Debug\net6.0\Libreria.dll
+C:\Users\maris\Desktop\Clase-Prog-main\Libreria\bin\Debug\net6.0\Libreria.pdb
+C:\Users\maris\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.csproj.AssemblyReference.cache
+C:\Users\maris\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.Properties.Resources.resources
+C:\Users\maris\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.csproj.GenerateResource.cache
+C:\Users\maris\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maris\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfoInputs.cache
+C:\Users\maris\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfo.cs
+C:\Users\maris\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\maris\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.dll
+C:\Users\maris\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\refint\Libreria.dll
+C:\Users\maris\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.pdb
+C:\Users\maris\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\ref\Libreria.dll
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\Libreria\bin\Debug\net6.0\Libreria.deps.json
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\Libreria\bin\Debug\net6.0\Libreria.dll
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\Libreria\bin\Debug\net6.0\Libreria.pdb
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.Properties.Resources.resources
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfo.cs
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.dll
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\refint\Libreria.dll
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.pdb
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\Libreria\obj\Debug\net6.0\ref\Libreria.dll
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\bin\Debug\net6.0\Libreria.deps.json
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\bin\Debug\net6.0\Libreria.dll
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\bin\Debug\net6.0\Libreria.pdb
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.csproj.AssemblyReference.cache
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.Properties.Resources.resources
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.csproj.GenerateResource.cache
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfoInputs.cache
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfo.cs
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.csproj.CoreCompileInputs.cache
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.dll
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\refint\Libreria.dll
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\Libreria.pdb
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0\ref\Libreria.dll

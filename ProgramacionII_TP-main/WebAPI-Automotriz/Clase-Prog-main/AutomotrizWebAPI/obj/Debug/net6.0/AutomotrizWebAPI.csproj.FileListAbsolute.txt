@@ -1,0 +1,365 @@
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.json
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.exe
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.deps.json
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.runtimeconfig.json
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.dll
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.pdb
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.dll
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.pdb
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.AssemblyReference.cache
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfoInputs.cache
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfo.cs
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CoreCompileInputs.cache
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\scopedcss\bundle\AutomotrizWebAPI.styles.css
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CopyComplete
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.dll
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\refint\AutomotrizWebAPI.dll
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.pdb
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.genruntimeconfig.cache
+E:\Biblioteca\Escritorio\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\ref\AutomotrizWebAPI.dll
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.exe
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.deps.json
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.runtimeconfig.json
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.dll
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.pdb
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.dll
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.pdb
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.AssemblyReference.cache
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfoInputs.cache
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfo.cs
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\scopedcss\bundle\AutomotrizWebAPI.styles.css
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CopyComplete
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.dll
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\refint\AutomotrizWebAPI.dll
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.pdb
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.genruntimeconfig.cache
+C:\Users\20418473593\Desktop\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\ref\AutomotrizWebAPI.dll
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.json
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.exe
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.deps.json
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.runtimeconfig.json
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.dll
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.pdb
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.dll
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.pdb
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.AssemblyReference.cache
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfoInputs.cache
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfo.cs
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CoreCompileInputs.cache
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.AutomotrizWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.AutomotrizWebAPI.props
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AutomotrizWebAPI.props
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AutomotrizWebAPI.props
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\scopedcss\bundle\AutomotrizWebAPI.styles.css
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CopyComplete
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.dll
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\refint\AutomotrizWebAPI.dll
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.pdb
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.genruntimeconfig.cache
+D:\GitHub\Documents\GitHub\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\ref\AutomotrizWebAPI.dll
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.exe
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.deps.json
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.runtimeconfig.json
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.dll
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.pdb
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.dll
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.pdb
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.AssemblyReference.cache
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfoInputs.cache
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfo.cs
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\scopedcss\bundle\AutomotrizWebAPI.styles.css
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CopyComplete
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.dll
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\refint\AutomotrizWebAPI.dll
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.pdb
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.genruntimeconfig.cache
+C:\Users\20418473593\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\ref\AutomotrizWebAPI.dll
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.exe
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.deps.json
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.runtimeconfig.json
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.dll
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.pdb
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.dll
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.pdb
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfo.cs
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\scopedcss\bundle\AutomotrizWebAPI.styles.css
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CopyComplete
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.dll
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\refint\AutomotrizWebAPI.dll
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.pdb
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.genruntimeconfig.cache
+C:\Users\diego\Desktop\Automotriz-PROG\Automotriz\AutomotrizWebAPI\obj\Debug\net6.0\ref\AutomotrizWebAPI.dll
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.json
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.exe
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.deps.json
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.runtimeconfig.json
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.dll
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.pdb
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.dll
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.pdb
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.AssemblyReference.cache
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfoInputs.cache
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfo.cs
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CoreCompileInputs.cache
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\obj\Debug\net6.0\scopedcss\bundle\AutomotrizWebAPI.styles.css
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CopyComplete
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.dll
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\obj\Debug\net6.0\refint\AutomotrizWebAPI.dll
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.pdb
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.genruntimeconfig.cache
+E:\Biblioteca\Escritorio\GitHub\Clase-Prog\AutomotrizWebAPI\obj\Debug\net6.0\ref\AutomotrizWebAPI.dll
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.exe
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.deps.json
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.runtimeconfig.json
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.dll
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.pdb
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.dll
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.pdb
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.AssemblyReference.cache
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfoInputs.cache
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfo.cs
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\scopedcss\bundle\AutomotrizWebAPI.styles.css
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CopyComplete
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.dll
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\refint\AutomotrizWebAPI.dll
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.pdb
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.genruntimeconfig.cache
+C:\Users\ERIC\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\ref\AutomotrizWebAPI.dll
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.exe
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.deps.json
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.runtimeconfig.json
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.dll
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.pdb
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.dll
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.pdb
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.AssemblyReference.cache
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfoInputs.cache
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfo.cs
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\scopedcss\bundle\AutomotrizWebAPI.styles.css
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CopyComplete
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.dll
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\refint\AutomotrizWebAPI.dll
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.pdb
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.genruntimeconfig.cache
+C:\Users\maris\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\ref\AutomotrizWebAPI.dll
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.exe
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.deps.json
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.runtimeconfig.json
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.dll
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.pdb
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.dll
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.pdb
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfo.cs
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.AutomotrizWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.AutomotrizWebAPI.props
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AutomotrizWebAPI.props
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AutomotrizWebAPI.props
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\scopedcss\bundle\AutomotrizWebAPI.styles.css
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CopyComplete
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.dll
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\refint\AutomotrizWebAPI.dll
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.pdb
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.genruntimeconfig.cache
+C:\Users\diego\Desktop\Desktop\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\ref\AutomotrizWebAPI.dll
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\appsettings.json
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.exe
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.deps.json
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.runtimeconfig.json
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.dll
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\AutomotrizWebAPI.pdb
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.dll
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\bin\Debug\net6.0\Libreria.pdb
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.AssemblyReference.cache
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfoInputs.cache
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.AssemblyInfo.cs
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CoreCompileInputs.cache
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.AutomotrizWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.AutomotrizWebAPI.props
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AutomotrizWebAPI.props
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AutomotrizWebAPI.props
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\scopedcss\bundle\AutomotrizWebAPI.styles.css
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.csproj.CopyComplete
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.dll
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\refint\AutomotrizWebAPI.dll
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.pdb
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\AutomotrizWebAPI.genruntimeconfig.cache
+E:\diego\Documents\TUP\Para los chicos\ProgramacionII_TP-main\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizWebAPI\obj\Debug\net6.0\ref\AutomotrizWebAPI.dll
